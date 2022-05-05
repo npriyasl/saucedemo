@@ -65,6 +65,6 @@ public class Scenario_4 {
 			Files.copy(srcFile1, to1);
 	    }
 	    	
-		
+	    driver.close();
 	}
 }

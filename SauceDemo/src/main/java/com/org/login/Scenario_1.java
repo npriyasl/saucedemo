@@ -43,6 +43,6 @@ public class Scenario_1 {
 	}
 	System.out.println("success");
 	
-		
+	driver.close();	
 	}
 }
